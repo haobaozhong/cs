@@ -1,4 +1,6 @@
 # CS
-computer science for a programmer
 
+- 程序员需要知道的计算机科学知识
+- 假如我需要讲授计算机科学，我需要准备的笔记
 
+- [操作系统](os.md)
